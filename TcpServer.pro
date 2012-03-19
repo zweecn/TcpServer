@@ -17,3 +17,7 @@ HEADERS  += dialog.h
 
 FORMS    +=
 
+OTHER_FILES += \
+    README.txt
+
+
